@@ -2,9 +2,9 @@
 
 Diseño de banco de Registro
 
-Jaider Neira
-Sergio Obando 
-Julian Diaz
+*Jaider Neira
+*Sergio Obando 
+*Julian Diaz
 
 # Introducción
 
@@ -25,8 +25,7 @@ Se debe diseñar un banco de registro tal que:
 * Contar con señal de rst, la cual  ponga  todos los registros en un valor conocido.
 
 ## **Caja del banco de registro**
-![banco de registro](https://github.com/ELINGAP-7545/lab06-grupo1/blob/master/fig/banco%20de%20registro.JPG)
-
+![banco de registro](https://github.com/ELINGAP-7545/lab06-grupo1/blob/master/fig/bando_de_registroo.JPG)
 
 
 * Visualizar la información, en al menos dos display de 7 segmentos (información de cada registro leído).
