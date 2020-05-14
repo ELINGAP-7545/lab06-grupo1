@@ -1,4 +1,10 @@
-# lab06 Diseño de banco de Registro
+# Lab06 
+
+Diseño de banco de Registro
+
+Jaider Neira
+Sergio Obando 
+Julian Diaz
 
 # Introducción
 
@@ -13,12 +19,15 @@ Una vez clone el repositorio, realice lo siguiente:
 ## Descipción 
 Se debe diseñar un banco de registro tal que:
 
-* El banco de registro debe tener 16 registros de R/W.
+* El banco de registro debe tener 10 registros de R/W.
 * Permitir la lectura de 2 registros  simultáneamente 
 * Permitir la escritura  de 1 registro, acorde a la señal de control regwrite
 * Contar con señal de rst, la cual  ponga  todos los registros en un valor conocido.
 
-![cn](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab07-BancosRgistro/doc/caja%20negra.png)
+## **Caja del banco de registro**
+![banco de registro](https://github.com/ELINGAP-7545/lab06-grupo1/blob/master/fig/banco%20de%20registro.JPG)
+
+
 
 * Visualizar la información, en al menos dos display de 7 segmentos (información de cada registro leído).
 * El ingreso de la información se debe hacer por medio de los interruptores.
