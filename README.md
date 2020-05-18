@@ -48,7 +48,7 @@ Entregables:
 
 # Simulacion en Quartus
 
-
+![Simulacion](https://github.com/ELINGAP-7545/lab06-grupo1/blob/master/fig/Quartus.jpeg)
 
 # Implementación
 
