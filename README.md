@@ -46,6 +46,10 @@ Entregables:
 
  ![caja](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab07-BancosRgistro/doc/banco%20registro.png)
 
+# Simulacion en Quartus
+
+
+
 # Implementación
 
 ## **Caja del banco de registro**
