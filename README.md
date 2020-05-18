@@ -96,4 +96,4 @@ Finalmente se pulsa el boton reset el cual nos muestra un dato que ya se conocia
 
 ## Video de la implementación 
 
-
+https://drive.google.com/file/d/1fjl7Fu7kq7cNU06asmVXPnqPC6wS09cO/view?usp=sharing
