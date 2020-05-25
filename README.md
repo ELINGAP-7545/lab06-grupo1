@@ -45,6 +45,10 @@ Entregables:
 .
 
  ![caja](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab07-BancosRgistro/doc/banco%20registro.png)
+ 
+# Codigo testbench
+
+[Codigo](https://github.com/ELINGAP-7545/lab06-grupo1/blob/master/src/Lab06/TestBench.v)
 
 # Simulacion en Quartus
 
@@ -101,3 +105,7 @@ Finalmente se pulsa el boton reset el cual nos muestra un dato que ya se conocia
 ## Video de la implementación 
 
 https://drive.google.com/file/d/1fjl7Fu7kq7cNU06asmVXPnqPC6wS09cO/view?usp=sharing
+
+## Código HDL de la solución 
+
+[Codigo](https://github.com/ELINGAP-7545/lab06-grupo1/blob/master/src/Lab06/codigo_labsland/codigo_labsland.v)
